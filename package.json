@@ -1,0 +1,11 @@
+{
+  "name": "validation-attrs",
+  "description": "HTML5 Constraint Validation API attributes",
+  "repository": "git://github.com/ashaffer/validation-attrs.git",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "engines": {
+    "node": "~0.10.38",
+    "npm": "~2.9.0"
+  }
+}
